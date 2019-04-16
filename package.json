@@ -1,0 +1,26 @@
+{
+  "name": "hexo-sluggard",
+  "version": "1.0.0",
+  "description": "Be a sluggard when using Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zq-97/hexo-sluggard.git"
+  },
+  "keywords": [
+    "hexo",
+    "auto",
+    "title",
+    "categories",
+    "link"
+  ],
+  "author": "张强",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq-97/hexo-sluggard/issues"
+  },
+  "homepage": "https://github.com/zq-97/hexo-sluggard#README"
+}
